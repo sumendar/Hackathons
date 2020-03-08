@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hackathons
 ## MachineHack 
 **How to get started**  
@@ -10,3 +11,7 @@ https://github.com/analyticsindiamagazine/MachineHack/tree/master/Hackathon_Solu
 https://www.machinehack.com/community-contributions/  
 **How They Cracked Top Challenges**  
 https://www.machinehack.com/how-they-cracked-top-challenges/  
+=======
+# Hackathons  
+
+>>>>>>> d106c9807872b16c871ad4213a3f766145668f99
