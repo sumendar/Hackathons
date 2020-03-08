@@ -1,0 +1,3 @@
+https://www.analyticsindiamag.com/flight-ticket-price-prediction-hackathon-use-these-resources-to-crack-our-machinehack-data-science-challenge/
+https://gist.github.com/analyticsindiamagazine/be2532754986796e0fe9b1aaef8a48ae#file-soln_predict_flight_ticket-ipynb
+https://gist.github.com/analyticsindiamagazine/be2532754986796e0fe9b1aaef8a48ae
